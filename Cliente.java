@@ -14,7 +14,7 @@ public class Cliente {
         prodottiDaAcquistare.add(element);
     }
 
-    public Cliente(){this(0,null);}
+    public Cliente(){/*this(0,null);*/}
 
     public double getBudget() {
         return budget;
